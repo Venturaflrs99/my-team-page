@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://my-team-page-kohl.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://my-team-page-kohl.vercel.app/">
+    <a href="https://github.com/Venturaflrs99/my-team-page">
       Solution
     </a>
     <span> | </span>
@@ -27,7 +27,6 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -38,20 +37,8 @@
 
 ![screenshot](https://github.com/Venturaflrs99/my-team-page/blob/master/my-team-page-screenshot.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+A good project to practice media queries
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
-
-### Built With
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
 
 ## Features
 
